@@ -8,6 +8,9 @@ export default function FirstPage() {
             <h2>My hobby is watching movies alone and I love playing video games.</h2>    
             <h3>I am very honored to learn Computer Science.</h3>
             <Link href="/">Back to home</Link>
+            <div>
+                <a href="/script.html">나는 조수웅입니다</a>
+            </div>
         </div>
     )
 }
